@@ -1,0 +1,25 @@
+
+Name = Sushant
+Age = 19
+Sallary = 20000
+Working PositionSenior Doctor
+
+Name = Sushant Nadavade
+Age = 20
+Sallary = 17000
+Working Position neurologist
+
+Name = Sushant Nadavade
+Age = 21
+Sallary = 15000
+Working Position
+
+Name = Sushant
+Age = 27
+Sallary = 250000
+Working Position orthopidist
+
+Name = Vikrant Honbute
+Age = 25
+Sallary = 40000
+Working Positionorthopidist
